@@ -63,3 +63,8 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 10.0
+
+[submodule "oskr1087/StockMoveCancel"]
+	path = oskr1087/StockMoveCancel
+	url = git@github.com:oskr1087/StockMoveCancel.git
+	branch = 10.0
