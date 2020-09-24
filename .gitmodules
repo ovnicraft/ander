@@ -95,3 +95,7 @@
 	path = prisehub/radel
 	url = git@github.com:prisehub/radel.git
 	branch = 10.0
+[submodule "ovnicraft/hrms"]
+	path = ovnicraft/hrms
+	url = git@github.com:ovnicraft/hrms.git
+	branch = 10.0
